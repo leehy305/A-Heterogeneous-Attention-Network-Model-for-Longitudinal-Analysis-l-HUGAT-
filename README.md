@@ -1,1 +1,1 @@
-# A-Heterogeneous-Attention-Network-Model-for-Longitudinal-Analysis-l-HUGAT-
+# A Heterogeneous Attention Network Model for Longitudinal Analysis l-HUGAT
